@@ -102,7 +102,7 @@ HUGGINGFACE_TOKEN=your_token_here
 
 ## 🧑‍💻 Author
 
-Built with ❤ by [Your Name] for educational and real-world translation use cases.
+Built with https://github.com/Tejxs-12 for educational and real-world translation use cases.
 
 ---
 
