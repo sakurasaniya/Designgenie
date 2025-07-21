@@ -1,0 +1,27 @@
+# requirements.txt
+
+# Core libraries
+transformers
+torch
+sentencepiece
+
+# Language detection
+langdetect
+
+# Web app frontend
+streamlit
+
+# Optional API & async support
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+
+# (Optional) If you plan to run locally with GPU acceleration
+# accelerate
+# bitsandbytes
+
+# (Optional) For CLI-style prompts/debugging
+# rich
+# typer
